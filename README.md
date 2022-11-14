@@ -6,8 +6,9 @@ This repository contains an example demonstration of how I am personally using t
 
 ## Typical Note/Research Process
 
-- *Dedicated Projects:*
-- *Daily Notes:* Usually I will begin learning a new topic and writing sparse notes about my research in my daily notes identified with tags. But once the amount of knowledge about a topic gets
+1. Start a new year planner with the `yearly-planner` template
+2. Start a new month planner with the `monthly-planner` template
+3. Throughout the day if I have something I need to jot down, or if I am reading new topics that I want to take notes on I will start a new daily-note.
 
 ## Taking The Tour
 
@@ -35,6 +36,6 @@ I have created repos with example FOAM structures using various existing knowled
 - [Personal FOAM Structure](https://github.com/sn3akiwhizper/foam-example-personal)
 - [FOAM with P.A.R.A.](https://github.com/sn3akiwhizper/foam-example-para)
 - [FOAM with Zettelkasten](https://github.com/sn3akiwhizper/foam-example-zettelkasten)
-- [FOAM with Johnyy Decimal](https://github.com/sn3akiwhizper/foam-example-johnny-decimal)
-- [FOAM with Johnyy Decimal](https://github.com/sn3akiwhizper/foam-example-decimal-cutter)
+- [FOAM with Johnny Decimal](https://github.com/sn3akiwhizper/foam-example-johnny-decimal)
+- [FOAM with Decimal-Cutter](https://github.com/sn3akiwhizper/foam-example-decimal-cutter)
 - [FOAM for Worldbuilding](https://github.com/sn3akiwhizper/foam-example-worldbuilding)
