@@ -1,0 +1,28 @@
+{
+	"yearly-setup": {
+		"displayName": "Yearly Planner",
+		"defaultPath": "99.Journal/",
+		"questions": {
+			"name": "What year are you setting up?",
+			"className": "HTML class name"
+		},
+		"folder": "{{kebab name}}",
+		"files": [
+			{
+				"name": "{{kebab name}}.jsx",
+				"content": [
+					"import React from 'react';",
+					"",
+					"const {{pascal name}} = () =>",
+					"  <div className=\"{{kebab className}}\" />",
+					"",
+					"export default {{pascal name}};"
+				]
+			},
+			{
+				"name": "{{kebab name}}.scss",
+				"content": [".{{kebab className}} {}"]
+			}
+		]
+	}
+}

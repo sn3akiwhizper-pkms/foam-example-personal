@@ -1,0 +1,1570 @@
+{//V1.6.0 taken from <https://github.com/hpcodecraft/ASCIImoji/releases/tag/1.6.0>, slightly modded
+	"acid": {
+		"prefix":"^acid",
+		"body": [
+			"⊂(◉‿◉)つ"
+		],
+		"description":"acid"
+	},
+	"afraid": {
+		"prefix":"^afraid",
+		"body": [
+			"(ㆆ _ ㆆ)"
+		],
+		"description":"afraid"
+	},
+	"angel": {
+		"prefix":"^angel",
+		"body": [
+			"☜(⌒▽⌒)☞"
+		],
+		"description":"angel"
+	},
+	"angry": {
+		"prefix":"^angry",
+		"body": [
+			"•`_´•"
+		],
+		"description":"angry"
+	},
+	"arrowhead": {
+		"prefix":"^arrowhead",
+		"body": [
+			"⤜(ⱺ ʖ̯ⱺ)⤏"
+		],
+		"description":"arrowhead"
+	},
+	"ass,butt": {
+		"prefix":"^ass,butt",
+		"body": [
+			"(‿|‿)"
+		],
+		"description":"ass,butt"
+	},
+	"awkward": {
+		"prefix":"^awkward",
+		"body": [
+			"•͡˘㇁•͡˘"
+		],
+		"description":"awkward"
+	},
+	"bat": {
+		"prefix":"^bat",
+		"body": [
+			"/|\\ ^._.^ /|\\"
+		],
+		"description":"bat"
+	},
+	"bear,koala": {
+		"prefix":"^bear,koala",
+		"body": [
+			"ʕ·͡ᴥ·ʔ﻿"
+		],
+		"description":"bear,koala"
+	},
+	"bearflip": {
+		"prefix":"^bearflip",
+		"body": [
+			"ʕノ•ᴥ•ʔノ ︵ ┻━┻"
+		],
+		"description":"bearflip"
+	},
+	"bearhug": {
+		"prefix":"^bearhug",
+		"body": [
+			"ʕっ•ᴥ•ʔっ"
+		],
+		"description":"bearhug"
+	},
+	"blackeye": {
+		"prefix":"^blackeye",
+		"body": [
+			"0__#"
+		],
+		"description":"blackeye"
+	},
+	"blubby": {
+		"prefix":"^blubby",
+		"body": [
+			"(      0    _   0    )"
+		],
+		"description":"blubby"
+	},
+	"blush": {
+		"prefix":"^blush",
+		"body": [
+			"(˵ ͡° ͜ʖ ͡°˵)"
+		],
+		"description":"blush"
+	},
+	"bond,007": {
+		"prefix":"^bond007",
+		"body": [
+			"┌( ͝° ͜ʖ͡°)=ε/̵͇̿̿/’̿’̿ "
+		],
+		"description":"bond,007"
+	},
+	"boobs": {
+		"prefix":"^boobs",
+		"body": [
+			"( . Y . )"
+		],
+		"description":"boobs"
+	},
+	"bored": {
+		"prefix":"^bored",
+		"body": [
+			"(-_-)"
+		],
+		"description":"bored"
+	},
+	"bribe": {
+		"prefix":"^bribe",
+		"body": [
+			"( •͡˘ _•͡˘)ノð"
+		],
+		"description":"bribe"
+	},
+	"bubbles": {
+		"prefix":"^bubbles",
+		"body": [
+			"( ˘ ³˘)ノ°ﾟº❍｡"
+		],
+		"description":"bubbles"
+	},
+	"butterfly": {
+		"prefix":"^butterfly",
+		"body": [
+			"ƸӜƷ"
+		],
+		"description":"butterfly"
+	},
+	"cat": {
+		"prefix":"^cat",
+		"body": [
+			"(= ФェФ=)"
+		],
+		"description":"cat"
+	},
+	"catlenny": {
+		"prefix":"^catlenny",
+		"body": [
+			"( ͡° ᴥ ͡°)"
+		],
+		"description":"catlenny"
+	},
+	"cheer": {
+		"prefix":"^cheer",
+		"body": [
+			"※\\(^o^)/※"
+		],
+		"description":"cheer"
+	},
+	"chubby": {
+		"prefix":"^chubby",
+		"body": [
+			"╭(ʘ̆~◞౪◟~ʘ̆)╮"
+		],
+		"description":"chubby"
+	},
+	"claro": {
+		"prefix":"^claro",
+		"body": [
+			"(͡ ° ͜ʖ ͡ °)"
+		],
+		"description":"claro"
+	},
+	"clique,gang,squad": {
+		"prefix":"^clique,gang,squad",
+		"body": [
+			"ヽ༼ ຈل͜ຈ༼ ▀̿̿Ĺ̯̿̿▀̿ ̿༽Ɵ͆ل͜Ɵ͆ ༽ﾉ"
+		],
+		"description":"clique,gang,squad"
+	},
+	"coffee,cuppa": {
+		"prefix":"^coffee,cuppa",
+		"body": [
+			"c[_]"
+		],
+		"description":"coffee,cuppa"
+	},
+	"command,cmd": {
+		"prefix":"^command,cmd",
+		"body": [
+			"⌘"
+		],
+		"description":"command,cmd"
+	},
+	"cool,csi": {
+		"prefix":"^cool,csi",
+		"body": [
+			"(•_•) ( •_•)>⌐■-■ (⌐■_■)"
+		],
+		"description":"cool,csi"
+	},
+	"creep": {
+		"prefix":"^creep",
+		"body": [
+			"ԅ(≖‿≖ԅ)"
+		],
+		"description":"creep"
+	},
+	"creepcute": {
+		"prefix":"^creepcute",
+		"body": [
+			"ƪ(ړײ)‎ƪ​​"
+		],
+		"description":"creepcute"
+	},
+	"crim3s": {
+		"prefix":"^s",
+		"body": [
+			"( ✜︵✜ )"
+		],
+		"description":"s"
+	},
+	"cross": {
+		"prefix":"^cross",
+		"body": [
+			"†"
+		],
+		"description":"cross"
+	},
+	"cry": {
+		"prefix":"^cry",
+		"body": [
+			"(╥﹏╥)"
+		],
+		"description":"cry"
+	},
+	"crywave": {
+		"prefix":"^crywave",
+		"body": [
+			"( ╥﹏╥) ノシ"
+		],
+		"description":"crywave"
+	},
+	"cute": {
+		"prefix":"^cute",
+		"body": [
+			"(｡◕‿‿◕｡)"
+		],
+		"description":"cute"
+	},
+	"dab": {
+		"prefix":"^dab",
+		"body": [
+			"ヽ( •_)ᕗ"
+		],
+		"description":"dab"
+	},
+	"damnyou": {
+		"prefix":"^damnyou",
+		"body": [
+			"(ᕗ ͠° ਊ ͠° )ᕗ"
+		],
+		"description":"damnyou"
+	},
+	"dance": {
+		"prefix":"^dance",
+		"body": [
+			"ᕕ(⌐■_■)ᕗ ♪♬"
+		],
+		"description":"dance"
+	},
+	"dead": {
+		"prefix":"^dead",
+		"body": [
+			"x⸑x"
+		],
+		"description":"dead"
+	},
+	"dealwithit,dwi": {
+		"prefix":"^dealwithit,dwi",
+		"body": [
+			"(⌐■_■)"
+		],
+		"description":"dealwithit,dwi"
+	},
+	"depressed": {
+		"prefix":"^depressed",
+		"body": [
+			"(︶︹︶)"
+		],
+		"description":"depressed"
+	},
+	"derp": {
+		"prefix":"^derp",
+		"body": [
+			"☉ ‿ ⚆"
+		],
+		"description":"derp"
+	},
+	"dj": {
+		"prefix":"^dj",
+		"body": [
+			"d[-_-]b"
+		],
+		"description":"dj"
+	},
+	"dog": {
+		"prefix":"^dog",
+		"body": [
+			"(◕ᴥ◕ʋ)"
+		],
+		"description":"dog"
+	},
+	"dong": {
+		"prefix":"^dong",
+		"body": [
+			"(̿▀̿ ̿Ĺ̯̿̿▀̿ ̿)̄"
+		],
+		"description":"dong"
+	},
+	"donger": {
+		"prefix":"^donger",
+		"body": [
+			"ヽ༼ຈل͜ຈ༽ﾉ"
+		],
+		"description":"donger"
+	},
+	"dontcare,idc": {
+		"prefix":"^dontcare,idc",
+		"body": [
+			"(- ʖ̯-)"
+		],
+		"description":"dontcare,idc"
+	},
+	"donotwant,do": {
+		"prefix":"^donotwant,do",
+		"body": [
+			"not want,dontwant ヽ(｀Д´)ﾉ"
+		],
+		"description":"donotwant,do"
+	},
+	"dope": {
+		"prefix":"^dope",
+		"body": [
+			"<(^_^)>"
+		],
+		"description":"dope"
+	},
+	"doubleflat": {
+		"prefix":"^doubleflat",
+		"body": [
+			"𝄫"
+		],
+		"description":"doubleflat"
+	},
+	"doublesharp": {
+		"prefix":"^doublesharp",
+		"body": [
+			"𝄪"
+		],
+		"description":"doublesharp"
+	},
+	"doubletableflip": {
+		"prefix":"^doubletableflip",
+		"body": [
+			"┻━┻ ︵ヽ(`Д´)ﾉ︵ ┻━┻"
+		],
+		"description":"doubletableflip"
+	},
+	"duckface": {
+		"prefix":"^duckface",
+		"body": [
+			"(・3・)"
+		],
+		"description":"duckface"
+	},
+	"duel": {
+		"prefix":"^duel",
+		"body": [
+			"ᕕ(╭ರ╭ ͟ʖ╮•́)⊃¤=(————-"
+		],
+		"description":"duel"
+	},
+	"duh": {
+		"prefix":"^duh",
+		"body": [
+			"(≧︿≦)"
+		],
+		"description":"duh"
+	},
+	"dunnolol,dunno": {
+		"prefix":"^dunnolol,dunno",
+		"body": [
+			"¯\\(°_o)/¯"
+		],
+		"description":"dunnolol,dunno"
+	},
+	"ebola": {
+		"prefix":"^ebola",
+		"body": [
+			"ᴇʙᴏʟᴀ"
+		],
+		"description":"ebola"
+	},
+	"eeriemob": {
+		"prefix":"^eeriemob",
+		"body": [
+			"(-(-_-(-_(-_(-_-)_-)-_-)_-)_-)-)"
+		],
+		"description":"eeriemob"
+	},
+	"endure": {
+		"prefix":"^endure",
+		"body": [
+			"(҂◡_◡) ᕤ"
+		],
+		"description":"endure"
+	},
+	"evil": {
+		"prefix":"^evil",
+		"body": [
+			"ψ(｀∇´)ψ"
+		],
+		"description":"evil"
+	},
+	"evillenny": {
+		"prefix":"^evillenny",
+		"body": [
+			"(͠≖ ͜ʖ͠≖)"
+		],
+		"description":"evillenny"
+	},
+	"excited": {
+		"prefix":"^excited",
+		"body": [
+			"(ﾉ◕ヮ◕)ﾉ*:・ﾟ✧"
+		],
+		"description":"excited"
+	},
+	"execution": {
+		"prefix":"^execution",
+		"body": [
+			"(⌐■_■)︻╦╤─   (╥﹏╥)"
+		],
+		"description":"execution"
+	},
+	"facebook": {
+		"prefix":"^facebook",
+		"body": [
+			"(╯°□°)╯︵ ʞooqǝɔɐɟ"
+		],
+		"description":"facebook"
+	},
+	"facepalm": {
+		"prefix":"^facepalm",
+		"body": [
+			"(－‸ლ)"
+		],
+		"description":"facepalm"
+	},
+	"fart": {
+		"prefix":"^fart",
+		"body": [
+			"(ˆ⺫ˆ๑)<3"
+		],
+		"description":"fart"
+	},
+	"fight": {
+		"prefix":"^fight",
+		"body": [
+			"(ง •̀_•́)ง"
+		],
+		"description":"fight"
+	},
+	"finn": {
+		"prefix":"^finn",
+		"body": [
+			"| (• ◡•)|"
+		],
+		"description":"finn"
+	},
+	"flat,bemolle": {
+		"prefix":"^flat,bemolle",
+		"body": [
+			"♭"
+		],
+		"description":"flat,bemolle"
+	},
+	"flexing": {
+		"prefix":"^flexing",
+		"body": [
+			"ᕙ(`▽´)ᕗ"
+		],
+		"description":"flexing"
+	},
+	"flipped,heavytable": {
+		"prefix":"^flipped,heavytable",
+		"body": [
+			"┬─┬﻿ ︵ /(.□. \\)"
+		],
+		"description":"flipped,heavytable"
+	},
+	"flower,flor": {
+		"prefix":"^flower,flor",
+		"body": [
+			"(✿◠‿◠)"
+		],
+		"description":"flower,flor"
+	},
+	"fly": {
+		"prefix":"^fly",
+		"body": [
+			"─=≡Σ((( つ◕ل͜◕)つ"
+		],
+		"description":"fly"
+	},
+	"friendflip": {
+		"prefix":"^friendflip",
+		"body": [
+			"(╯°□°)╯︵ ┻━┻ ︵ ╯(°□° ╯)"
+		],
+		"description":"friendflip"
+	},
+	"frown": {
+		"prefix":"^frown",
+		"body": [
+			"(ღ˘⌣˘ღ)"
+		],
+		"description":"frown"
+	},
+	"fuckoff,gtfo": {
+		"prefix":"^fuckoff,gtfo",
+		"body": [
+			"୧༼ಠ益ಠ╭∩╮༽"
+		],
+		"description":"fuckoff,gtfo"
+	},
+	"fuckyou,fu": {
+		"prefix":"^fuckyou,fu",
+		"body": [
+			"┌П┐(ಠ_ಠ)"
+		],
+		"description":"fuckyou,fu"
+	},
+	"gentleman,sir,monocle": {
+		"prefix":"^gentleman,sir,monocle",
+		"body": [
+			"ಠ_ರೃ"
+		],
+		"description":"gentleman,sir,monocle"
+	},
+	"ghast": {
+		"prefix":"^ghast",
+		"body": [
+			"= _ ="
+		],
+		"description":"ghast"
+	},
+	"ghost": {
+		"prefix":"^ghost",
+		"body": [
+			"༼ つ ╹ ╹ ༽つ"
+		],
+		"description":"ghost"
+	},
+	"gift,present": {
+		"prefix":"^gift,present",
+		"body": [
+			"(´・ω・)っ由"
+		],
+		"description":"gift,present"
+	},
+	"gimme": {
+		"prefix":"^gimme",
+		"body": [
+			"༼ つ ◕_◕ ༽つ"
+		],
+		"description":"gimme"
+	},
+	"givemeyourmoney": {
+		"prefix":"^givemeyourmoney",
+		"body": [
+			"(•-•)⌐"
+		],
+		"description":"givemeyourmoney"
+	},
+	"glitterbomb,glitter": {
+		"prefix":"^glitterbomb,glitter",
+		"body": [
+			"(*・‿・)ノ⌒*:･ﾟ✧"
+		],
+		"description":"glitterbomb,glitter"
+	},
+	"glasses": {
+		"prefix":"^glasses",
+		"body": [
+			"(⌐ ͡■ ͜ʖ ͡■)"
+		],
+		"description":"glasses"
+	},
+	"glassesoff": {
+		"prefix":"^glassesoff",
+		"body": [
+			"( ͡° ͜ʖ ͡°)ﾉ⌐■-■"
+		],
+		"description":"glassesoff"
+	},
+	"glitterderp": {
+		"prefix":"^glitterderp",
+		"body": [
+			"(ﾉ☉ヮ⚆)ﾉ ⌒*:･ﾟ✧"
+		],
+		"description":"glitterderp"
+	},
+	"gloomy": {
+		"prefix":"^gloomy",
+		"body": [
+			"(_゜_゜_)"
+		],
+		"description":"gloomy"
+	},
+	"goatse": {
+		"prefix":"^goatse",
+		"body": [
+			"(з๏ε)"
+		],
+		"description":"goatse"
+	},
+	"gotit": {
+		"prefix":"^gotit",
+		"body": [
+			"(☞ﾟ∀ﾟ)☞"
+		],
+		"description":"gotit"
+	},
+	"greet,greetings": {
+		"prefix":"^greet,greetings",
+		"body": [
+			"( ´◔ ω◔`) ノシ"
+		],
+		"description":"greet,greetings"
+	},
+	"gun,mg": {
+		"prefix":"^gun,mg",
+		"body": [
+			"︻╦╤─"
+		],
+		"description":"gun,mg"
+	},
+	"hadouken": {
+		"prefix":"^hadouken",
+		"body": [
+			"༼つಠ益ಠ༽つ ─=≡ΣO))"
+		],
+		"description":"hadouken"
+	},
+	"hammerandsickle,hs": {
+		"prefix":"^hammerandsickle,hs",
+		"body": [
+			"☭"
+		],
+		"description":"hammerandsickle,hs"
+	},
+	"handleft,hl": {
+		"prefix":"^handleft,hl",
+		"body": [
+			"☜"
+		],
+		"description":"handleft,hl"
+	},
+	"handright,hr": {
+		"prefix":"^handright,hr",
+		"body": [
+			"☞"
+		],
+		"description":"handright,hr"
+	},
+	"haha": {
+		"prefix":"^haha",
+		"body": [
+			"٩(^‿^)۶"
+		],
+		"description":"haha"
+	},
+	"happy": {
+		"prefix":"^happy",
+		"body": [
+			"٩( ๑╹ ꇴ╹)۶"
+		],
+		"description":"happy"
+	},
+	"happygarry": {
+		"prefix":"^happygarry",
+		"body": [
+			"ᕕ( ᐛ )ᕗ"
+		],
+		"description":"happygarry"
+	},
+	"hello,ohai,bye": {
+		"prefix":"^hello,ohai,bye",
+		"body": [
+			"(ʘ‿ʘ)╯"
+		],
+		"description":"hello,ohai,bye"
+	},
+	"help": {
+		"prefix":"^help",
+		"body": [
+			"\\(°Ω°)/"
+		],
+		"description":"help"
+	},
+	"highfive": {
+		"prefix":"^highfive",
+		"body": [
+			"._.)/\\(._."
+		],
+		"description":"highfive"
+	},
+	"hitting": {
+		"prefix":"^hitting",
+		"body": [
+			"( ｀皿´)｡ﾐ/"
+		],
+		"description":"hitting"
+	},
+	"hugs,hug": {
+		"prefix":"^hugs,hug",
+		"body": [
+			"(づ｡◕‿‿◕｡)づ"
+		],
+		"description":"hugs,hug"
+	},
+	"iknowright,ikr": {
+		"prefix":"^iknowright,ikr",
+		"body": [
+			"┐｜･ิω･ิ#｜┌"
+		],
+		"description":"iknowright,ikr"
+	},
+	"illuminati": {
+		"prefix":"^illuminati",
+		"body": [
+			"୧(▲ᴗ▲)ノ"
+		],
+		"description":"illuminati"
+	},
+	"inlove": {
+		"prefix":"^inlove",
+		"body": [
+			"(っ´ω`c)♡"
+		],
+		"description":"inlove"
+	},
+	"integral,int": {
+		"prefix":"^integral,int",
+		"body": [
+			"∫"
+		],
+		"description":"integral,int"
+	},
+	"internet": {
+		"prefix":"^internet",
+		"body": [
+			"ଘ(੭*ˊᵕˋ)੭* ̀ˋ ɪɴᴛᴇʀɴᴇᴛ"
+		],
+		"description":"internet"
+	},
+	"interrobang": {
+		"prefix":"^interrobang",
+		"body": [
+			"‽"
+		],
+		"description":"interrobang"
+	},
+	"jake": {
+		"prefix":"^jake",
+		"body": [
+			"(❍ᴥ❍ʋ)"
+		],
+		"description":"jake"
+	},
+	"kappa": {
+		"prefix":"^kappa",
+		"body": [
+			"(¬,‿,¬)"
+		],
+		"description":"kappa"
+	},
+	"kawaii": {
+		"prefix":"^kawaii",
+		"body": [
+			"≧◡≦"
+		],
+		"description":"kawaii"
+	},
+	"keen": {
+		"prefix":"^keen",
+		"body": [
+			"┬┴┬┴┤Ɵ͆ل͜Ɵ͆ ༽ﾉ"
+		],
+		"description":"keen"
+	},
+	"kiahh": {
+		"prefix":"^kiahh",
+		"body": [
+			"~\\(≧▽≦)/~"
+		],
+		"description":"kiahh"
+	},
+	"kiss": {
+		"prefix":"^kiss",
+		"body": [
+			"(づ ￣ ³￣)づ"
+		],
+		"description":"kiss"
+	},
+	"kyubey": {
+		"prefix":"^kyubey",
+		"body": [
+			"／人◕ ‿‿ ◕人＼"
+		],
+		"description":"kyubey"
+	},
+	"lazy": {
+		"prefix":"^lazy",
+		"body": [
+			"_(:3」∠)_"
+		],
+		"description":"lazy"
+	},
+	"lenny": {
+		"prefix":"^lenny",
+		"body": [
+			"( ͡° ͜ʖ ͡°)"
+		],
+		"description":"lenny"
+	},
+	"lennybill": {
+		"prefix":"^lennybill",
+		"body": [
+			"[̲̅$̲̅(̲̅ ͡° ͜ʖ ͡°̲̅)̲̅$̲̅]"
+		],
+		"description":"lennybill"
+	},
+	"lennyfight": {
+		"prefix":"^lennyfight",
+		"body": [
+			"(ง ͠° ͟ʖ ͡°)ง"
+		],
+		"description":"lennyfight"
+	},
+	"lennyflip": {
+		"prefix":"^lennyflip",
+		"body": [
+			"(ノ ͡° ͜ʖ ͡°ノ)   ︵ ( ͜。 ͡ʖ ͜。)"
+		],
+		"description":"lennyflip"
+	},
+	"lennygang": {
+		"prefix":"^lennygang",
+		"body": [
+			"( ͡°( ͡° ͜ʖ( ͡° ͜ʖ ͡°)ʖ ͡°) ͡°)"
+		],
+		"description":"lennygang"
+	},
+	"lennyshrug": {
+		"prefix":"^lennyshrug",
+		"body": [
+			"¯\\_( ͡° ͜ʖ ͡°)_/¯"
+		],
+		"description":"lennyshrug"
+	},
+	"lennysir": {
+		"prefix":"^lennysir",
+		"body": [
+			"( ಠ ͜ʖ ರೃ)"
+		],
+		"description":"lennysir"
+	},
+	"lennystalker": {
+		"prefix":"^lennystalker",
+		"body": [
+			"┬┴┬┴┤( ͡° ͜ʖ├┬┴┬┴"
+		],
+		"description":"lennystalker"
+	},
+	"lennystrong": {
+		"prefix":"^lennystrong",
+		"body": [
+			"ᕦ( ͡° ͜ʖ ͡°)ᕤ"
+		],
+		"description":"lennystrong"
+	},
+	"lennywizard": {
+		"prefix":"^lennywizard",
+		"body": [
+			"╰( ͡° ͜ʖ ͡° )つ──☆*:・ﾟ"
+		],
+		"description":"lennywizard"
+	},
+	"lol": {
+		"prefix":"^lol",
+		"body": [
+			"L(° O °L)"
+		],
+		"description":"lol"
+	},
+	"look": {
+		"prefix":"^look",
+		"body": [
+			"(ಡ_ಡ)☞"
+		],
+		"description":"look"
+	},
+	"loud,noise": {
+		"prefix":"^loud,noise",
+		"body": [
+			"ᕦ(⩾﹏⩽)ᕥ"
+		],
+		"description":"loud,noise"
+	},
+	"love": {
+		"prefix":"^love",
+		"body": [
+			"♥‿♥"
+		],
+		"description":"love"
+	},
+	"lovebear": {
+		"prefix":"^lovebear",
+		"body": [
+			"ʕ♥ᴥ♥ʔ"
+		],
+		"description":"lovebear"
+	},
+	"lumpy": {
+		"prefix":"^lumpy",
+		"body": [
+			"꒰ ꒡⌓꒡꒱"
+		],
+		"description":"lumpy"
+	},
+	"luv": {
+		"prefix":"^luv",
+		"body": [
+			"-`ღ´-"
+		],
+		"description":"luv"
+	},
+	"magic": {
+		"prefix":"^magic",
+		"body": [
+			"ヽ(｀Д´)⊃━☆ﾟ. * ･ ｡ﾟ,"
+		],
+		"description":"magic"
+	},
+	"magicflip": {
+		"prefix":"^magicflip",
+		"body": [
+			"(/¯◡ ‿ ◡)/¯ ~ ┻━┻"
+		],
+		"description":"magicflip"
+	},
+	"meep": {
+		"prefix":"^meep",
+		"body": [
+			"\\(°^°)/"
+		],
+		"description":"meep"
+	},
+	"meh": {
+		"prefix":"^meh",
+		"body": [
+			"ಠ_ಠ"
+		],
+		"description":"meh"
+	},
+	"metal,rock": {
+		"prefix":"^metal,rock",
+		"body": [
+			"\\m/,(> . <)_\\m/"
+		],
+		"description":"metal,rock"
+	},
+	"mistyeyes": {
+		"prefix":"^mistyeyes",
+		"body": [
+			"ಡ_ಡ"
+		],
+		"description":"mistyeyes"
+	},
+	"monster": {
+		"prefix":"^monster",
+		"body": [
+			"༼ ༎ຶ ෴ ༎ຶ༽"
+		],
+		"description":"monster"
+	},
+	"natural": {
+		"prefix":"^natural",
+		"body": [
+			"♮"
+		],
+		"description":"natural"
+	},
+	"needle,inject": {
+		"prefix":"^needle,inject",
+		"body": [
+			"┌(◉ ͜ʖ◉)つ┣▇▇▇═──"
+		],
+		"description":"needle,inject"
+	},
+	"nerd": {
+		"prefix":"^nerd",
+		"body": [
+			"(⌐⊙_⊙)"
+		],
+		"description":"nerd"
+	},
+	"nice": {
+		"prefix":"^nice",
+		"body": [
+			"( ͡° ͜ °)"
+		],
+		"description":"nice"
+	},
+	"no": {
+		"prefix":"^no",
+		"body": [
+			"→_←"
+		],
+		"description":"no"
+	},
+	"noclue": {
+		"prefix":"^noclue",
+		"body": [
+			"／人◕ __ ◕人＼"
+		],
+		"description":"noclue"
+	},
+	"nom,yummy,delicious": {
+		"prefix":"^nom,yummy,delicious",
+		"body": [
+			"(っˆڡˆς)"
+		],
+		"description":"nom,yummy,delicious"
+	},
+	"note,sing": {
+		"prefix":"^note,sing",
+		"body": [
+			"♫"
+		],
+		"description":"note,sing"
+	},
+	"nuclear,radioactive,nukular": {
+		"prefix":"^nuclear,radioactive,nukular",
+		"body": [
+			"☢"
+		],
+		"description":"nuclear,radioactive,nukular"
+	},
+	"nyan": {
+		"prefix":"^nyan",
+		"body": [
+			"~=[,,_,,]:3"
+		],
+		"description":"nyan"
+	},
+	"nyeh": {
+		"prefix":"^nyeh",
+		"body": [
+			"@^@"
+		],
+		"description":"nyeh"
+	},
+	"ohshit": {
+		"prefix":"^ohshit",
+		"body": [
+			"( º﹃º )"
+		],
+		"description":"ohshit"
+	},
+	"omg": {
+		"prefix":"^omg",
+		"body": [
+			"◕_◕"
+		],
+		"description":"omg"
+	},
+	"option,opt": {
+		"prefix":"^option,opt",
+		"body": [
+			"⌥"
+		],
+		"description":"option,opt"
+	},
+	"ohreally,orly": {
+		"prefix":"^ohreally,orly",
+		"body": [
+			"(눈_눈)"
+		],
+		"description":"ohreally,orly"
+	},
+	"ohyou,ou": {
+		"prefix":"^ohyou,ou",
+		"body": [
+			"(◞థ౪థ)ᴖ"
+		],
+		"description":"ohyou,ou"
+	},
+	"peace,victory": {
+		"prefix":"^peace,victory",
+		"body": [
+			"✌(-‿-)✌"
+		],
+		"description":"peace,victory"
+	},
+	"pear": {
+		"prefix":"^pear",
+		"body": [
+			"(__>-"
+		],
+		"description":"pear"
+	},
+	"pingpong": {
+		"prefix":"^pingpong",
+		"body": [
+			"( •_•)O*¯`·.¸.·´¯`°Q(•_• )"
+		],
+		"description":"pingpong"
+	},
+	"plain": {
+		"prefix":"^plain",
+		"body": [
+			"._."
+		],
+		"description":"plain"
+	},
+	"pleased": {
+		"prefix":"^pleased",
+		"body": [
+			"(˶‾᷄ ⁻̫ ‾᷅˵)"
+		],
+		"description":"pleased"
+	},
+	"point": {
+		"prefix":"^point",
+		"body": [
+			"(☞ﾟヮﾟ)☞"
+		],
+		"description":"point"
+	},
+	"pooh": {
+		"prefix":"^pooh",
+		"body": [
+			"ʕ •́؈•̀)"
+		],
+		"description":"pooh"
+	},
+	"porcupine": {
+		"prefix":"^porcupine",
+		"body": [
+			"(•ᴥ• )́`́'́`́'́⻍"
+		],
+		"description":"porcupine"
+	},
+	"praise": {
+		"prefix":"^praise",
+		"body": [
+			"(☝ ՞ਊ ՞)☝"
+		],
+		"description":"praise"
+	},
+	"punch": {
+		"prefix":"^punch",
+		"body": [
+			"O=('-'Q)"
+		],
+		"description":"punch"
+	},
+	"rage,mad": {
+		"prefix":"^rage,mad",
+		"body": [
+			"t(ಠ益ಠt)"
+		],
+		"description":"rage,mad"
+	},
+	"rageflip": {
+		"prefix":"^rageflip",
+		"body": [
+			"(ノಠ益ಠ)ノ彡┻━┻"
+		],
+		"description":"rageflip"
+	},
+	"rainbowcat": {
+		"prefix":"^rainbowcat",
+		"body": [
+			"(=^･ｪ･^=))ﾉ彡☆"
+		],
+		"description":"rainbowcat"
+	},
+	"really": {
+		"prefix":"^really",
+		"body": [
+			"ò_ô"
+		],
+		"description":"really"
+	},
+	"riot": {
+		"prefix":"^riot",
+		"body": [
+			"୧༼ಠ益ಠ༽୨"
+		],
+		"description":"riot"
+	},
+	"rolleyes": {
+		"prefix":"^rolleyes",
+		"body": [
+			"(◔_◔)"
+		],
+		"description":"rolleyes"
+	},
+	"rose": {
+		"prefix":"^rose",
+		"body": [
+			"✿ڿڰۣ—"
+		],
+		"description":"rose"
+	},
+	"run": {
+		"prefix":"^run",
+		"body": [
+			"(╯°□°)╯"
+		],
+		"description":"run"
+	},
+	"sad": {
+		"prefix":"^sad",
+		"body": [
+			"ε(´סּ︵סּ`)з"
+		],
+		"description":"sad"
+	},
+	"saddonger": {
+		"prefix":"^saddonger",
+		"body": [
+			"ヽ༼ຈʖ̯ຈ༽ﾉ"
+		],
+		"description":"saddonger"
+	},
+	"sadlenny": {
+		"prefix":"^sadlenny",
+		"body": [
+			"( ͡° ʖ̯ ͡°)"
+		],
+		"description":"sadlenny"
+	},
+	"sharp,diesis": {
+		"prefix":"^sharp,diesis",
+		"body": [
+			"♯"
+		],
+		"description":"sharp,diesis"
+	},
+	"shout": {
+		"prefix":"^shout",
+		"body": [
+			"╚(•⌂•)╝"
+		],
+		"description":"shout"
+	},
+	"shrug": {
+		"prefix":"^shrug",
+		"body": [
+			"¯\\_(ツ)_/¯"
+		],
+		"description":"shrug"
+	},
+	"shy": {
+		"prefix":"^shy",
+		"body": [
+			"=^_^="
+		],
+		"description":"shy"
+	},
+	"smile": {
+		"prefix":"^smile",
+		"body": [
+			"ツ"
+		],
+		"description":"smile"
+	},
+	"smirk": {
+		"prefix":"^smirk",
+		"body": [
+			"¬‿¬"
+		],
+		"description":"smirk"
+	},
+	"sob": {
+		"prefix":"^sob",
+		"body": [
+			"(;´༎ຶД༎ຶ`)"
+		],
+		"description":"sob"
+	},
+	"soviettableflip": {
+		"prefix":"^soviettableflip",
+		"body": [
+			"ノ┬─┬ノ ︵ ( \\o°o)\\"
+		],
+		"description":"soviettableflip"
+	},
+	"squid": {
+		"prefix":"^squid",
+		"body": [
+			"<コ:彡"
+		],
+		"description":"squid"
+	},
+	"strong": {
+		"prefix":"^strong",
+		"body": [
+			"ᕙ(⇀‸↼‶)ᕗ"
+		],
+		"description":"strong"
+	},
+	"suicide": {
+		"prefix":"^suicide",
+		"body": [
+			"ε/̵͇̿̿/’̿’̿ ̿(◡︵◡)"
+		],
+		"description":"suicide"
+	},
+	"surprised": {
+		"prefix":"^surprised",
+		"body": [
+			"(๑•́ ヮ •̀๑)"
+		],
+		"description":"surprised"
+	},
+	"surrender": {
+		"prefix":"^surrender",
+		"body": [
+			"\\_(-_-)_/"
+		],
+		"description":"surrender"
+	},
+	"stalker": {
+		"prefix":"^stalker",
+		"body": [
+			"┬┴┬┴┤(･_├┬┴┬┴"
+		],
+		"description":"stalker"
+	},
+	"swag": {
+		"prefix":"^swag",
+		"body": [
+			"(̿▀̿‿ ̿▀̿ ̿)"
+		],
+		"description":"swag"
+	},
+	"sword": {
+		"prefix":"^sword",
+		"body": [
+			"o()xxxx[{::::::::::::::::::>"
+		],
+		"description":"sword"
+	},
+	"tabledown": {
+		"prefix":"^tabledown",
+		"body": [
+			"┬─┬﻿ ノ( ゜-゜ノ)"
+		],
+		"description":"tabledown"
+	},
+	"tableflip": {
+		"prefix":"^tableflip",
+		"body": [
+			"(ノ ゜Д゜)ノ ︵ ┻━┻"
+		],
+		"description":"tableflip"
+	},
+	"tears": {
+		"prefix":"^tears",
+		"body": [
+			"(ಥ﹏ಥ)"
+		],
+		"description":"tears"
+	},
+	"terrorist": {
+		"prefix":"^terrorist",
+		"body": [
+			"୧༼ಠ益ಠ༽︻╦╤─"
+		],
+		"description":"terrorist"
+	},
+	"thanks,thankyou,ty": {
+		"prefix":"^thanks,thankyou,ty",
+		"body": [
+			"\\(^-^)/"
+		],
+		"description":"thanks,thankyou,ty"
+	},
+	"thisis,this": {
+		"prefix":"^thisis,this",
+		"body": [
+			"( ͡° ͜ʖ ͡°)_/¯"
+		],
+		"description":"thisis,this"
+	},
+	"tiefighter": {
+		"prefix":"^tiefighter",
+		"body": [
+			"|=-(¤)-=|"
+		],
+		"description":"tiefighter"
+	},
+	"tired": {
+		"prefix":"^tired",
+		"body": [
+			"(=____=)"
+		],
+		"description":"tired"
+	},
+	"toldyouso,toldyou": {
+		"prefix":"^toldyouso,toldyou",
+		"body": [
+			"☜(꒡⌓꒡)"
+		],
+		"description":"toldyouso,toldyou"
+	},
+	"toogood": {
+		"prefix":"^toogood",
+		"body": [
+			"ᕦ(òᴥó)ᕥ"
+		],
+		"description":"toogood"
+	},
+	"unflip": {
+		"prefix":"^unflip",
+		"body": [
+			"┬──┬ ノ(ò_óノ)"
+		],
+		"description":"unflip"
+	},
+	"victory": {
+		"prefix":"^victory",
+		"body": [
+			"(๑•̀ㅂ•́)ง✧"
+		],
+		"description":"victory"
+	},
+	"wat": {
+		"prefix":"^wat",
+		"body": [
+			"(ÒДÓױ)"
+		],
+		"description":"wat"
+	},
+	"wave": {
+		"prefix":"^wave",
+		"body": [
+			"( * ^ *) ノシ"
+		],
+		"description":"wave"
+	},
+	"whistle": {
+		"prefix":"^whistle",
+		"body": [
+			"(っ^з^)♪♬"
+		],
+		"description":"whistle"
+	},
+	"whoa": {
+		"prefix":"^whoa",
+		"body": [
+			"(°o•)"
+		],
+		"description":"whoa"
+	},
+	"why": {
+		"prefix":"^why",
+		"body": [
+			"ლ(`◉◞౪◟◉‵ლ)"
+		],
+		"description":"why"
+	},
+	"woo": {
+		"prefix":"^woo",
+		"body": [
+			"＼(＾O＾)／"
+		],
+		"description":"woo"
+	},
+	"wtf": {
+		"prefix":"^wtf",
+		"body": [
+			"(⊙＿⊙')"
+		],
+		"description":"wtf"
+	},
+	"wut": {
+		"prefix":"^wut",
+		"body": [
+			"⊙ω⊙"
+		],
+		"description":"wut"
+	},
+	"yay": {
+		"prefix":"^yay",
+		"body": [
+			"\\( ﾟヮﾟ)/"
+		],
+		"description":"yay"
+	},
+	"yeah,yes": {
+		"prefix":"^yeah,yes",
+		"body": [
+			"(•̀ᴗ•́)و ̑̑"
+		],
+		"description":"yeah,yes"
+	},
+	"yolo": {
+		"prefix":"^yolo",
+		"body": [
+			"Yᵒᵘ Oᶰˡʸ Lᶤᵛᵉ Oᶰᶜᵉ"
+		],
+		"description":"yolo"
+	},
+	"youkids,ukids": {
+		"prefix":"^youkids,ukids",
+		"body": [
+			"ლ༼>╭ ͟ʖ╮<༽ლ"
+		],
+		"description":"youkids,ukids"
+	},
+	"yuno,y": {
+		"prefix":"^yuno,y",
+		"body": [
+			"u no (屮ﾟДﾟ)屮 Y U NO"
+		],
+		"description":"yuno,y"
+	},
+	"zen,meditation,omm": {
+		"prefix":"^zen,meditation,omm",
+		"body": [
+			"⊹╰(⌣ʟ⌣)╯⊹"
+		],
+		"description":"zen,meditation,omm"
+	},
+	"zoidberg": {
+		"prefix":"^zoidberg",
+		"body": [
+			"(V) (°,,,,°) (V)"
+		],
+		"description":"zoidberg"
+	},
+	"zombie": {
+		"prefix":"^zombie",
+		"body": [
+			"[¬º-°]¬"
+		],
+		"description":"zombie"
+	}
+}

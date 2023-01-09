@@ -1,5 +1,5 @@
 {
-	// Place your foam-example-personal workspace snippets here. Each snippet is defined under a snippet name and has a scope, prefix, body and 
+	// Place your second-brain workspace snippets here. Each snippet is defined under a snippet name and has a scope, prefix, body and 
 	// description. Add comma separated ids of the languages where the snippet is applicable in the scope field. If scope 
 	// is left empty or omitted, the snippet gets applied to all languages. The prefix is what is 
 	// used to trigger the snippet and the body will be expanded and inserted. Possible variables are: 
@@ -15,25 +15,8 @@
 	// 	],
 	// 	"description": "Log output to console"
 	// }
-	"Example Foam Snip": {
-		"prefix": "example_foam_snip",
-		"body": [
-		  "---",
-		  "title: $1",
-		  "date: $2",
-		  "type: $3",
-		  "description: $4",
-		  "link: $5",
-		  "embed: $6",
-		  "video: $7",
-		  "slides: $8",
-		  "tags: [$9]",
-		  "---"
-		],
-		"description": "Example Foam Snip"
-	  },
-	  "Article Quick Notes": {
-		"prefix": "article_notes",
+	"Article Quick Notes": {
+		"prefix": "my_article_notes",
 		"body": [
 			"- article: $1",
 			"\t- tldr; $3",
@@ -41,5 +24,20 @@
 			"\t\t- TODO"
 		],
 		"description": "Template for recording info gleaned from web articles"
-	  }
+	},
+	"URL lines to formatted list":{//https://www.freecodecamp.org/news/definitive-guide-to-snippets-visual-studio-code/
+		"prefix": "!url_list",
+		"body": ["${TM_SELECTED_TEXT/^.+$/- describe: <$0>/gm}"],
+		"description": "convert url lines to markdown list"
+	},
+	"line to list":{
+		"prefix": "!md_list",
+		"body": ["${TM_SELECTED_TEXT/^.+$/- $0/gm}"],
+		"description": "convert reg lines to md list"
+	},
+	"format code block":{
+		"prefix": "!codeblock",
+		"body": ["```\n${TM_SELECTED_TEXT}\n```"],
+		"description": "add code block markings"
+	}
 }

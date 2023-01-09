@@ -6,19 +6,14 @@
     "yzhang.markdown-all-in-one",
     "mushan.vscode-paste-image",
     "bierner.markdown-emoji",
-    "bierner.emojisense",
     "skn0tt.markdown-link-expander",
-    "zaaack.markdown-editor",
     "bierner.markdown-mermaid",
-    "inawords.asciimoticons",
     "johnpapa.read-time",
     "ms-vscode.wordcount",
     "alefragnani.project-manager",
     "satoshiyamamoto.vscode-date-time-calendar",
     "eliverlara.sweet-vscode-icons",
     "asbjornh.vscode-module-templates",
-    "mikestead.dotenv",
-    "gonzooo.environment-injector",
     "gruntfuggly.todo-tree",
     "mechatroner.rainbow-csv",
     "esbenp.prettier-vscode",
@@ -32,6 +27,12 @@
     "hediet.vscode-drawio",
     "naumovs.color-highlight",
     "vsls-contrib.codetour",
-    "jayshah.handlebars-vsce"
+    "jayshah.handlebars-vsce",
+    "spmeesseman.vscode-taskexplorer",
+    "rebornix.ruby",
+    "wingrunr21.vscode-ruby",
+    "brunnerh.insert-unicode",
+    "pkief.markdown-checkbox",
+    "anseki.vscode-color"
   ]
 }

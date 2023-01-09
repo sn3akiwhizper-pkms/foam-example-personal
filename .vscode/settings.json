@@ -5,10 +5,15 @@
   "editor.lineHeight": 24,
   "editor.tabSize": 2,
   "[markdown]": {
+    // "editor.quickSuggestions": {
+    //   "comments": "on",
+    //   "strings": "on",
+    //   "other": "on"
+    // },
     "editor.quickSuggestions": {
-      "comments": "on",
-      "strings": "on",
-      "other": "on"
+      "comments": "off",
+      "strings": "off",
+      "other": "off"
     },
     "editor.quickSuggestionsDelay": 20
   },
@@ -44,15 +49,31 @@
   "git.postCommitCommand": "sync",
   "markdown.preview.breaks": true,
   "markdown.styles": [
-    "00.assets/css/custom.css"
+    "C:\\<TODO:userpath>\\10.second-brain\\.foam\\css\\custom.css"
   ],
+  "markdown-checkbox.withBulletPoint": true, //https://github.com/PKief/vscode-markdown-checkbox
+  "markdown-checkbox.typeOfBulletPoint": "-",
+  "markdown-checkbox.checkmark": "x",
+  "markdown-checkbox.italicWhenChecked": false,
+  "markdown-checkbox.strikeThroughWhenChecked": true,
+  "markdown-checkbox.dateWhenChecked": true,
+  "markdown-checkbox.dateFormat": "YYYY-MM-DD",
   "markdown.extension.toc.levels": "2..6",
   "module-templates.engine": "handlebars",
   "module-templates.handlebarsConfig": "./handlebarsjs-config.js",
-  "module-templates.templateFiles": ["./module_templates/yearly-planning.module-templates.json"],
-  "pasteImage.path": "${projectRoot}/00.assets/attachments/2022",
+  "module-templates.templateFiles": ["./module_templates/foam.module-templates.json"],
+  "pasteImage.path": "${projectRoot}/00.assets/attachments/2023",//REGULAR
   "pasteImage.showFilePathConfirmInputBox": true,
   "prettier.singleQuote": false,
+  "python.defaultInterpreterPath": "~\\anaconda3\\envs\\sn3akiwhizper",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "terminal.integrated.enableMultiLinePasteWarning": false,
+  "terminal.integrated.env.windows": {
+      "SECOND_BRAIN_PATH": "~/10.second-brain",
+  },
+  "terminal.integrated.env.linux": {
+      "SECOND_BRAIN_PATH": "~/10.second-brain",
+  },
   "todo-tree.general.tags": [ //https://github.com/Gruntfuggly/todo-tree/wiki/Configuration-Examples
     "TODO",//todo
     "NOTE",//note
@@ -64,6 +85,9 @@
     "[f]",//failed task
     "[c]",//cancelled task
   ],
+  "todo-tree.general.statusBar":"current file",
+  "todo-tree.general.statusBarClickBehaviour": "cycle",
+  "todo-tree.general.showIconsInsteadOfTagsInStatusBar": false,
   "todo-tree.highlights.defaultHighlight": {
     "foreground": "#ffffff",
     "background": "#ff0000",
@@ -92,6 +116,7 @@
       "icon": "tools",
       "iconColour": "#ffffff",
       "gutterIcon": true,
+      "type": "tag",
     },
     "NOTE": {
       "foreground": "#0c0d0b",
@@ -99,6 +124,7 @@
       "icon": "book",
       "iconColour": "#ffffff",
       "gutterIcon": true,
+      "type": "tag",
     },
     "TODO": {
       "foreground": "#0c0d0b",
@@ -106,6 +132,7 @@
       "icon": "plus-circle",
       "iconColour": "#d9c50f",
       "gutterIcon": true,
+      "type": "tag",
     },
     "[x]":{//complete
       "foreground": "#64dd17",
@@ -113,6 +140,7 @@
       "icon": "check-circle-fill",
       "iconColour": "#008800",
       "gutterIcon": true,
+      "type": "tag",
     },
     "[ ]":{//incomplete
       "foreground": "#f44336",
@@ -120,6 +148,7 @@
       "icon": "diamond",
       "iconColour": "#f44336",
       "gutterIcon": true,
+      "type": "tag",
     },
     "[f]":{//failed
       "foreground": "#d0c9c5",
@@ -127,6 +156,7 @@
       "icon": "eye-closed",
       "iconColour": "#ffffff",
       "gutterIcon": true,
+      "type": "tag",
     },
     "[c]":{//cancelled
       "foreground": "#d0c9c5",
@@ -134,8 +164,9 @@
       "icon": "diff-ignored",
       "iconColour": "#91522a",
       "gutterIcon": true,
+      "type": "tag",
     },
   },
   "todo-tree.regex.regex": "(//|#|<!--|;|/\\*|^|^\\s*(-|\\d+.))\\s*($TAGS)",//add markdown support: <https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree#markdown-support>
-  "workbench.colorTheme": "Solarized Dark",
+  "workbench.colorTheme": "Nüshu",
 }

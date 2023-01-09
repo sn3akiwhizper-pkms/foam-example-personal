@@ -22,9 +22,15 @@ foam_template:
   - [November Priorities](#november-priorities)
   - [December Priorities](#december-priorities)
 
+Yearly planners help me organize and link all of my monthly plannes and activities so I can quickly review what I've done and where I'm going at a glance.
+
 ## Top Priorities
 
-TODO
+- [ ] Spread the word of Foam and help others use it
+  - [x] Create Personal Foam example
+  - [ ] Create PARA Foam example
+
+> Note: the #highlighting and #icons for todo lists is provided by the [TODO:Tree plugin](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree). For more info checkout the TODO #code-tour or the [[todo-tree-highlighting]] guide.
 
 ## Per Month Priorities
 

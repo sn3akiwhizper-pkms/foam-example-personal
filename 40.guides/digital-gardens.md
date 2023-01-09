@@ -1,4 +1,5 @@
 ---
+template_version: 0.1
 type: basic-note
 keywords: digital-gardens
 ---

@@ -1,15 +1,19 @@
 ---
+template_version: 0.3
 type: daily-note
-keywords: $1
+tags: $1
 foam_template:
     description: Daily Note for $FOAM_TITLE
-    filepath: "C:\\<TODO:userpath>\\second-brain\\99.journal\\$FOAM_DATE_YEAR\\$FOAM_DATE_MONTH-$FOAM_DATE_MONTH_NAME_SHORT\\$FOAM_DATE_YEAR-$FOAM_DATE_MONTH-$FOAM_DATE_DATE.md"
+    filepath: "C:\\<TODO:userpath>\\10.second-brain\\99.journal\\$FOAM_DATE_YEAR\\$FOAM_DATE_MONTH-$FOAM_DATE_MONTH_NAME_SHORT\\$FOAM_DATE_YEAR-$FOAM_DATE_MONTH-$FOAM_DATE_DATE.md"
 ---
 # $FOAM_DATE_YEAR-$FOAM_DATE_MONTH-$FOAM_DATE_DATE Daily Notes
 
-*TOC*
-- [Section 1](#section-1)
+- [Research](#research)
+- [Work](#work)
+- [Personal](#personal)
 
-## Section 1
+## Research
 
-$2
+## Work
+
+## Personal

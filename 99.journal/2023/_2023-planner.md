@@ -2,10 +2,10 @@
 template_version: 0.3
 type: yearly-planner
 foam_template:
-		description: Yearly planner for $FOAM_DATE_YEAR
-		filepath: "C:\\<TODO:userpath>\\10.second-brain\\99.journal\\$FOAM_DATE_YEAR\\_$FOAM_DATE_YEAR-planner.md"
+		description: Yearly planner for 2023
+		filepath: "C:\\<TODO:userpath>\\10.second-brain\\99.journal\\2023\\_2023-planner.md"
 ---
-# $FOAM_DATE_YEAR Planner
+# 2023 Planner
 
 *TOC*
 - [Top Priorities](#top-priorities)
@@ -31,48 +31,48 @@ TODO
 
 ### January Priorities
 
-![[_Jan-$FOAM_DATE_YEAR-planner]]
+![[_Jan-2023-planner]]
 
 ### February Priorities
 
-![[_Feb-$FOAM_DATE_YEAR-planner]]
+![[_Feb-2023-planner]]
 
 ### March Priorities
 
-![[_Mar-$FOAM_DATE_YEAR-planner]]
+![[_Mar-2023-planner]]
 
 ### April Priorities
 
-![[_Apr-$FOAM_DATE_YEAR-planner]]
+![[_Apr-2023-planner]]
 
 ### May Priorities
 
-![[_May-$FOAM_DATE_YEAR-planner]]
+![[_May-2023-planner]]
 
 ### June Priorities
 
-![[_Jun-$FOAM_DATE_YEAR-planner]]
+![[_Jun-2023-planner]]
 
 ### July Priorities
 
-![[_Jul-$FOAM_DATE_YEAR-planner]]
+![[_Jul-2023-planner]]
 
 ### August Priorities
 
-![[_Aug-$FOAM_DATE_YEAR-planner]]
+![[_Aug-2023-planner]]
 
 ### September Priorities
 
-![[_Sep-$FOAM_DATE_YEAR-planner]]
+![[_Sep-2023-planner]]
 
 ### October
 
-![[_Oct-$FOAM_DATE_YEAR-planner]]
+![[_Oct-2023-planner]]
 
 ### November Priorities
 
-![[_Nov-$FOAM_DATE_YEAR-planner]]
+![[_Nov-2023-planner]]
 
 ### December Priorities
 
-![[_Dec-$FOAM_DATE_YEAR-planner]]
+![[_Dec-2023-planner]]

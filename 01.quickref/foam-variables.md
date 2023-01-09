@@ -1,11 +1,20 @@
 ---
+template_version: 0.2
 type: quick-ref
 tags: foam
 keywords: TODO?
 foam_template:
-    description: Quick ref sheet for Foam variables
+  name: foam-variables-ref
+  description: Quick ref sheet for Foam variables
 ---
-# Foam Variables
+# Foam Variables Quickref
+
+*TOC*
+- [Foam Variables](#foam-variables)
+- [Foam Front Matter](#foam-front-matter)
+- [Foam Custom Variables](#foam-custom-variables)
+
+## Foam Variables
 
 - `$FOAM_TITLE` The title of the note. If used, Foam will prompt you to enter a title for the note.
   - `resolveFoamTitle();`
@@ -53,3 +62,10 @@ foam_template:
   description: This is my note template
   filepath: `journal/$FOAM_TITLE.md`
 ```
+
+## Foam Custom Variables
+
+- goal: be able to define custom variables for #foam to resolve when completing tasks i.e. new note from template
+- #vscode issue, Allow extensions to register snippet variable resolvers: <https://github.com/microsoft/vscode/issues/130325>
+- note templates & variables doc: <https://foambubble.github.io/foam/user/features/note-templates#variables>
+- #extension for command variable substitution: <https://marketplace.visualstudio.com/items?itemName=rioj7.command-variable>

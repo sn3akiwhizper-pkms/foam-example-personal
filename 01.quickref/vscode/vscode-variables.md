@@ -1,8 +1,10 @@
 ---
+template_version: 0.2
 type: quick-ref
 tags: VSCode 
 keywords: TODO?
 foam_template:
+    name: vscode-variables-ref
     description: Quick ref sheet for VSCode variables
 ---
 # VSCode Variables Ref
@@ -10,14 +12,15 @@ foam_template:
 *TOC*
 - [Editor Variables](#editor-variables)
 - [Snippet Variables](#snippet-variables)
-  - [Editor Related](#editor-related)
-  - [Date-Based](#date-based)
-  - [Misc Snippet Variables](#misc-snippet-variables)
+	- [Editor Related](#editor-related)
+	- [Date-Based](#date-based)
+	- [Misc Snippet Variables](#misc-snippet-variables)
 - [Environment Variables](#environment-variables)
 - [Command Variables](#command-variables)
+- [Custom Variables](#custom-variables)
 - [Misc](#misc)
-  - [How can I know a variable's actual value?](#how-can-i-know-a-variables-actual-value)
-  - [Variable Transforms](#variable-transforms)
+	- [How can I know a variable's actual value?](#how-can-i-know-a-variables-actual-value)
+	- [Variable Transforms](#variable-transforms)
 - [Setting Window Title With Variables](#setting-window-title-with-variables)
 
 With `$name` or `${name:default}`, you can insert the value of a variable. When a variable isn't set, its default or the empty string is inserted. When a variable is unknown (that is, its name isn't defined) the name of the variable is inserted and it is transformed into a placeholder.
@@ -102,13 +105,41 @@ For inserting line or block comments, honoring the current language:
 
 ## Environment Variables
 
-You can also reference environment variables through the `${env:Name}` syntax (for example, `${env:USERNAME}`).
+- You can also reference environment variables through the `${env:Name}` syntax (for example, `${env:USERNAME}`).
+- Advanced containers env-variables: <https://code.visualstudio.com/remote/advancedcontainers/environment-variables>
+  - NOTE: only for use with the [vscode dev-container](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) extension
 
 ## Command Variables
 
-If the predefined variables from above are not sufficient, you can use any VS Code command as a variable through the `${command:commandID}` syntax.
+If the predefined variables from above are not sufficient, you can use any VS Code command as a variable through the `${command:commandID}` syntax. If the command does not return a string then the variable command substitution will not complete.
+
+- [Ref](https://code.visualstudio.com/docs/editor/variables-reference#_command-variables)
 
 ---
+
+## Custom Variables
+
+Add custom variables to settings.json to be accessible throughout vscode with `${config:<varname>}`. [src](https://stackoverflow.com/questions/53206904/vscode-custom-variables-in-launch-settings)
+
+**settings.json**
+
+```json
+"custom.config":{
+	"base_profile_path":"C:\\USERPATH\\second.brain\\my_profile",
+	"website_source_path":"${config:custom.config.base_profile_path}",
+	"website_compiled_path":"${config:custom.config.base_profile_path}"
+}
+```
+
+**tasks.json**
+
+```json
+{
+		"label": "test",
+		"type": "shell",
+		"command": "echo ${config:custom.config.base_profile_path}",
+}, 
+```
 
 ## Misc
 

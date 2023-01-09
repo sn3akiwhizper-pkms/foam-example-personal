@@ -1,8 +1,9 @@
 ---
+template_version: 0.1
 type: basic-note
-keywords: 
+tags: card-game, games
 ---
-# netrunner
+# Netrunner Card Game
 
 Created: 11/01/2022
 
@@ -15,12 +16,12 @@ Created: 11/01/2022
   - tldr; Android:Netrunner card game store page on fantasyflightgames
   - notes
     - support seems to have dropped around Aug 2018
-    - 2 person game: corpo versus netrunner
+    - 2 person game: #corpo versus #netrunner
 
 ## NISEI Revival
 
 - article: [Null Signal Games - The Future of Netrunner](https://nullsignal.games/)
-  - tldr; Fan run expansion of netrunner game is alive and well with new card packs and tournament play.
+  - tldr; Fan run expansion of #netrunner game is alive and well with new card packs and tournament play.
   - notes
     - newest pack releasing Dec. 9, 2022
     - RAM tournament event happening weekend of Nov 12, 2022
